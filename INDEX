@@ -1,0 +1,25 @@
+Main Functions
+--------------
+
+bagboost		An Implementation of BagBoosting
+logitboost		An Implementation of LogitBoost
+adaboost                An Implementation of AdaBoost
+l2boost                 An Implementation of L2Boost
+simulator               Simulation of (Microarray) Data
+
+
+Datasets
+--------
+
+leukemia		A Part of Golub's famous AML/ALL-dataset
+
+
+Auxiliary Functions
+-------------------
+
+score			Variable Selection with Wilcoxons Test Statistic
+learner                 The Weak Learner for the Boosting Methods
+summarize               Summarizes the Boosting Output
+response1		Simple Response Model for Simulated Data
+response2		Additive Response Model for Simulated Data
+response3		Inteaction Response Model for Simulated Data
